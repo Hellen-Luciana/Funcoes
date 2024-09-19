@@ -36,7 +36,7 @@ namespace Funcoes
             MostraMensagemNaTela();
             Tabuada(9);
             Tabuada(10);
-            Tabuada(98);
+            Tabuada(97);
             Console.ReadLine();
         }
     }
